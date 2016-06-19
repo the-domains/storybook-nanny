@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Storybook Nanny]]></title>
         <description><![CDATA[Storybook Nanny]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/storybook-nanny/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 16:09:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 19 Jun 2016 16:32:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/storybook-nanny/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pinkalicious Tickled Pink]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https://www.youtube.com/embed/qRU74apniXA?feature=oembed&url=http://www.youtube.com/watch?v=qRU74apniXA&image=https://i.ytimg.com/vi/qRU74apniXA/hqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text/html&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://thegrid.ai/storybook-nanny/pinkalicious-tickled-pink/index.html</link>
+            <guid isPermaLink="false">4b604cba-e976-4ece-932a-a5b4dc426ddc</guid>
+            <pubDate>Sun, 19 Jun 2016 16:32:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Storybooks are full of magic, adventure, and lessons about life. If you've ever been around children, you know how much they love stories, especially when they are read aloud. Storybook Nanny is the perfect place for story time, bedtime, or quiet time. Kids can read along with these audio books or simply watch an listen for a fun adventure. I post new stories regularly, so check back often to discover a new adventure.]]></title>
             <description><![CDATA[<article><h1>Storybooks are full of magic, adventure, and lessons about life. If you've ever been around children, you know how much they love stories, especially when they are read aloud. Storybook Nanny is the perfect place for story time, bedtime, or quiet time. Kids can read along with these audio books or simply watch an listen for a fun adventure. I post new stories regularly, so check back often to discover a new adventure.</h1><p>https://www.youtube.com/channel/UCqr8yqX8vkk63PMoZKA1WzA</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29afec37-eda0-4382-bedf-8b55c697d978.png"></article>]]></description>
-            <link>undefinedstorybooks-are-full-of-magic-adventure-and-lessons-about-l/index.html</link>
+            <link>https://thegrid.ai/storybook-nanny/storybooks-are-full-of-magic-adventure-and-lessons-about-l/index.html</link>
             <guid isPermaLink="false">6b2049a0-8a18-4c89-b2eb-f410587fdc97</guid>
             <pubDate>Sun, 19 Jun 2016 16:09:13 GMT</pubDate>
         </item>
