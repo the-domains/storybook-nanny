@@ -1,4 +1,19 @@
-analytics: {}
+name: Storybook Nanny
+favicon: null
+layout_spectrum: 0.408783
+typography_spectrum: 0.5414760154671967
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#FFFFFF'
@@ -8,11 +23,6 @@ color:
     - '#FFD200'
   brandStrength: 0.668918
   lightness: 0.324556
-  rhythmicContrast: 0.444819
   saturation: 0.878378
-cta: {}
-layout_spectrum: 0.408783
-name: Storybook Nanny
-opengraph: {}
+  rhythmicContrast: 0.444819
 purpose: []
-typography_spectrum: 0.5414760154671967
