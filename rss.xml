@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Storybook Nanny]]></title>
+        <description><![CDATA[Storybook Nanny]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 19 Jun 2016 16:09:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Storybooks are full of magic, adventure, and lessons about life. If you've ever been around children, you know how much they love stories, especially when they are read aloud. Storybook Nanny is the perfect place for story time, bedtime, or quiet time. Kids can read along with these audio books or simply watch an listen for a fun adventure. I post new stories regularly, so check back often to discover a new adventure.]]></title>
+            <description><![CDATA[<article><h1>Storybooks are full of magic, adventure, and lessons about life. If you've ever been around children, you know how much they love stories, especially when they are read aloud. Storybook Nanny is the perfect place for story time, bedtime, or quiet time. Kids can read along with these audio books or simply watch an listen for a fun adventure. I post new stories regularly, so check back often to discover a new adventure.</h1><p>https://www.youtube.com/channel/UCqr8yqX8vkk63PMoZKA1WzA</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29afec37-eda0-4382-bedf-8b55c697d978.png"></article>]]></description>
+            <link>undefinedstorybooks-are-full-of-magic-adventure-and-lessons-about-l/index.html</link>
+            <guid isPermaLink="false">6b2049a0-8a18-4c89-b2eb-f410587fdc97</guid>
+            <pubDate>Sun, 19 Jun 2016 16:09:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
