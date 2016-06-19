@@ -24,6 +24,6 @@ color:
     - '#FFD200'
   brandStrength: 0.668918
   lightness: 0.324556
-  saturation: 0.878378
-  rhythmicContrast: 0.444819
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
